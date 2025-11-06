@@ -1,6 +1,6 @@
 # Minivim – Uma IDE (Ambiente de Desenvolvimento): #
 
-![Descrição da imagem](
+![Logotipo](Gemini_Generated_Image_otjcp2otjcp2otjc.png)
 
 ### Introdução: ###
 
