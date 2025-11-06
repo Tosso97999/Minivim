@@ -1,5 +1,7 @@
 # Minivim – Uma IDE (Ambiente de Desenvolvimento): #
 
+![Descrição da imagem](
+
 ### Introdução: ###
 
 
